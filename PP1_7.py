@@ -7,34 +7,34 @@ def q1():
 
 def q2():
   #Write code here
-  num = input("Input an integer: ")
-  num = int(num)
-  bool= (num > 5)
-  print(bool)
+  num1 = input("Input an integer: ")
+  num2 = int(num1)
+  bool2= (num1 > 5)
+  print(bool2)
 
 def q3():
   #Write code here
-  num = input("Input the letter a:")
-  num = int(num)
-  bool = (num == "a") 
-  print(bool)
+  num3 = input("Input the letter a:")
+  num4 = int(num3)
+  bool3 = (num4 == "a") 
+  print(bool3)
 
 def q4():
   #Write code here
-  num= input("Input a word earlier in the dictionary than google: ")
-  num1= int(num)
-  bool(num.lower() < "google")
-  print(bool())
+  num5= input("Input a word earlier in the dictionary than google: ")
+  num6= int(num5)
+  bool4(num6.lower() < "google")
+  print(bool4)
 
 def q5():
   #Write code here
-  num1= input("Input an integer: ")
-  num2= input("Input another integer: ")
-  num= int(num1)
-  num3= int(num2)
-  num4= num * num3
-  bool(num4 > 40)
-  print("Your numbers multiplied together are greater than 40: ", bool())
+  num7= input("Input an integer: ")
+  num=8 input("Input another integer: ")
+  num9= int(num7)
+  num10= int(num8)
+  num11= num9 * num10
+  bool5(num11 > 40)
+  print("Your numbers multiplied together are greater than 40: ", bool5())
 
 #Do edit the code below
 #Comment the lines below when running your tests
