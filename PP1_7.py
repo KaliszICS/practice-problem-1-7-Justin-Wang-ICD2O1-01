@@ -31,7 +31,7 @@ def q5():
   num9= num7 * num8
   num10= int(num9)
   bool5= num10 > 40
-  print("Your numbers multiplied together are greater than 40: ", bool5)
+  print("Your numbers multiplied together are greater than 40:", bool5)
 
 #Do edit the code below
 #Comment the lines below when running your tests
