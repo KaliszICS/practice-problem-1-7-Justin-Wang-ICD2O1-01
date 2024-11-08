@@ -14,9 +14,8 @@ def q2():
 
 def q3():
   #Write code here
-  num3 = input("Input the letter a:")
-  num4 = int(num3)
-  bool3 = (num4 == "a") 
+  num3 = input("Input the letter a: ")
+  bool3 = (num3 == "a") 
   print(bool3)
 
 def q4():
