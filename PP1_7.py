@@ -9,7 +9,7 @@ def q2():
   #Write code here
   num1 = input("Input an integer: ")
   num2 = int(num1)
-  bool2= (num1 > 5)
+  bool2= (num2 > 5)
   print(bool2)
 
 def q3():
@@ -23,7 +23,7 @@ def q4():
   #Write code here
   num5= input("Input a word earlier in the dictionary than google: ")
   num6= int(num5)
-  bool4(num6.lower() < "google")
+  bool4 = num6.lower() < "google"
   print(bool4)
 
 def q5():
@@ -33,7 +33,7 @@ def q5():
   num9= int(num7)
   num10= int(num8)
   num11= num9 * num10
-  bool5(num11 > 40)
+  bool5= num11 > 40
   print("Your numbers multiplied together are greater than 40: ", bool5())
 
 #Do edit the code below
