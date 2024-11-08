@@ -22,19 +22,18 @@ def q3():
 def q4():
   #Write code here
   num5= input("Input a word earlier in the dictionary than google: ")
-  num6= int(num5)
-  bool4 = num6.lower() < "google"
+  bool4 = num5.lower() < "google"
   print(bool4)
 
 def q5():
   #Write code here
   num7= input("Input an integer: ")
-  num=8 input("Input another integer: ")
+  num8= input("Input another integer: ")
   num9= int(num7)
   num10= int(num8)
   num11= num9 * num10
   bool5= num11 > 40
-  print("Your numbers multiplied together are greater than 40: ", bool5())
+  print("Your numbers multiplied together are greater than 40: ", bool5)
 
 #Do edit the code below
 #Comment the lines below when running your tests
